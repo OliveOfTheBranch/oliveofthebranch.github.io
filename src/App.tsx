@@ -1,5 +1,4 @@
 import "./App.css";
-import title from "./assets/title.png";
 import pookie from "./assets/pookiegrab.png";
 
 function App() {
