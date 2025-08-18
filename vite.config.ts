@@ -8,5 +8,5 @@ export default defineConfig({
     react(), 
     tailwindcss(),
   ],
-  base: "/oliveofthebranch.github.io"
+  base: "/"
 })
