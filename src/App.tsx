@@ -16,6 +16,7 @@ function App() {
           className="pt-8 w-40 h-auto"
           alt="Pookie the cat :3"
         />
+        <p className="pt-8">^ pookie, the cat</p>
       </div>
     </>
   );
